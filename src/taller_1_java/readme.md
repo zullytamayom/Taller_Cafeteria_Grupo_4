@@ -30,3 +30,11 @@ Por qué do-while es más apropiado que while aquí? Describe con tus palabras l
 ## Respuesta:
 Es mas apropiado porque porque necesitamos evaluar por lo menos el primer valor que entra al bucle. Evalua primer el valor erroneo,
 en el condicional if dentro del do, y alli mismo forzamos y simulamos que el cajero mete otro valor que si es valido.
+
+## Pregunta 6:
+## Respuesta:
+
+## Pregunta 7:
+## Respuesta :
+Se identificaron por lo menos 3 errores : dos de compilacion o sintaxis: el 5 estaba como string entre comillas, pero fue declarado con int, y faltaba
+un cierre de instruccion con ";" , otro de logica ya que se usa solo un = y se requieren dos == , porque no se esta asignando sino comparando.
