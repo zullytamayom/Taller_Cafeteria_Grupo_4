@@ -73,6 +73,5 @@ El `for` permite controlar de forma más clara el inicio, la condición y el inc
 
 Se identificaron al menos 3 errores:
 
-1. ❌ **Error de compilación:**
-   ```java
-   int cantidadVendida = "5";
+1 y 2 ❌ **Error de compilación:** el "5" se declara con int pero se usa comillas como string. Falta un ; .
+3 ❌ **Error logico:** se usa un solo = en lugar de dos para comparar.
