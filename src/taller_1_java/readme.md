@@ -12,10 +12,9 @@ Sale un error ya que intenta guardar un número con decimales en una variable qu
 
 
 ## Pregunta 2:
-
+  Pregunta: ¿Qué operador usaste para determinar si aplica el descuento? ¿Qué tipo de dato devuelve ese operador? dame el testo de la respuesta
 ## Respuesta :
-
-
+  Usé el operador relacional > para comparar si el subtotal era mayor a 30.000. Ese operador devuelve un valor de tipo boolean, es decir, true o false
 ## Pregunta 3:
 ## Respuesta :
 
