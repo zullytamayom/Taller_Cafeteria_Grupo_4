@@ -1,0 +1,7 @@
+package taller_1_java;
+
+public class Ejercicio_4 {
+    public static void main(String[] args) {
+
+    }
+}
