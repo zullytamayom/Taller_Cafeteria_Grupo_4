@@ -1,11 +1,10 @@
-import java.util.Scanner;
+package taller_1_java;
 
-public class Cafeteria {
+public class Ejercicio_3 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        char codigo = 'F';
 
-        System.out.print("Ingresa el código del producto (B, F, C, P): ");
-        char codigo = sc.next().toUpperCase().charAt(0);
+        System.out.println("Procesando código: " + codigo);
 
         switch (codigo) {
             case 'B':
@@ -31,7 +30,5 @@ public class Cafeteria {
             default:
                 System.out.println("Código no reconocido");
         }
-
-        sc.close();
     }
 }
